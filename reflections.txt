@@ -1,4 +1,5 @@
-You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+##You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  
   * What new skills have you learned?
   * What has been easy?
   * What has been difficult?
@@ -7,3 +8,14 @@ You've learned a lot about web development so far. I want you to take a moment t
 ---
 
 Your response goes here!
+
+Answers:
+
+1. I alredy work with html and i knew most of tags used in this project, but i don't knew about the mockup,  my boss
+   just tell what i should do and i try my best to do it. I will show this way to my workmates it is best and more fast
+   to build a project this way.
+
+2. It was easy i kwen most of the tags that i should use.
+
+3. The only difficult part that the observation each part for the mockup with attention, for exemple i put one block
+   surround with a paragraph tag  then i think "that it, i finish this part" but inside it contain a emphasis or a strong content that i did not sight, so i had to go back and put other tags inside this paragraph.
